@@ -1,0 +1,5 @@
+   A la fecha: 4-2-2022
+    Fue realizada cotización con los siguientes datos:
+    Cantidad de pesos a convertir: 20000 pesos
+    Convertido a "dolar" da un total de: 24.47 (unidad de medida: Dólar observado)
+    
